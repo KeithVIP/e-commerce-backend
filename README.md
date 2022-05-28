@@ -4,8 +4,6 @@
 
 https://drive.google.com/file/d/1FIDFMD1djW_nAVX51QmKarixMYFBqaNe/view
 
-<iframe src="https://drive.google.com/file/d/1FIDFMD1djW_nAVX51QmKarixMYFBqaNe/view" width="640" height="480"></iframe>
-
 ## Second Walthrough Video
 
 https://drive.google.com/file/d/1jfoUxHn6mvMghFbQVTBpPzR0j8LLRKoU/view
