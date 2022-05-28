@@ -4,17 +4,13 @@
 
 https://drive.google.com/file/d/1FIDFMD1djW_nAVX51QmKarixMYFBqaNe/view
 
-<iframe src="https://drive.google.com/file/d/1FIDFMD1djW_nAVX51QmKarixMYFBqaNe/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1hjOSw_-NAedJoMZJibmLCy6X0aLPwzu-/preview" width="640" height="480"></iframe>
 
 ## Second Walthrough Video
-
-<iframe src="https://drive.google.com/file/d/1FIDFMD1djW_nAVX51QmKarixMYFBqaNe/preview" width="640" height="480"></iframe>
 
 https://drive.google.com/file/d/1jfoUxHn6mvMghFbQVTBpPzR0j8LLRKoU/view
 
 ## Third Walkthrough Video
-
-<iframe src="https://drive.google.com/file/d/1hjOSw_-NAedJoMZJibmLCy6X0aLPwzu-/preview" width="640" height="480"></iframe>
 
 https://drive.google.com/file/d/1hjOSw_-NAedJoMZJibmLCy6X0aLPwzu-/view
 
