@@ -4,7 +4,7 @@
 
 https://drive.google.com/file/d/1FIDFMD1djW_nAVX51QmKarixMYFBqaNe/view
 
-<iframe src="https://drive.google.com/file/d/1hjOSw_-NAedJoMZJibmLCy6X0aLPwzu-/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1FIDFMD1djW_nAVX51QmKarixMYFBqaNe/view" width="640" height="480"></iframe>
 
 ## Second Walthrough Video
 
